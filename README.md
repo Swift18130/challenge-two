@@ -18,4 +18,5 @@ I tried to pull from the activity examples on how to do this. I was able to use 
 I still need more help masterinf resposive screens and creating containers so that the position of objects don't move as much. I will resubmit if I'm allowed to.
 
 
-
+SCREENSHOTS
+<img width="1563" alt="Screenshot 2023-03-06 at 11 35 38 PM" src="https://user-images.githubusercontent.com/49410376/223323155-dfe97144-e784-4697-87a8-3706019cd03f.png">
