@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #fffae9;
+    background-color: #bdb092;
     margin: 0px;
 }
 
@@ -132,9 +132,9 @@ width: 100%;
 }
 
 
-
+/* WORK TITLE */ 
 #work-title{
-    background-color: #877b5c;
+    background-color: #EDE4DB;
     text-indent: 100px;
     font-size: 40px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -155,7 +155,7 @@ padding-top: 20px;
   
     padding-bottom: 45px;
     text-align: center;
-    background-color: #877b5c;
+    background-color: #EDE4DB;
     border-width: 1px;
   }
   
